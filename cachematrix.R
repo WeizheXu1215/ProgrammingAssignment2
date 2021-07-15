@@ -8,7 +8,7 @@ M1<-matrix(1:4,nrow=2)
 ## set: set value of another matrix to the object
 ## getinverse: get the inverse value of the matrix
 ## setinverse: set the inverse value of the matrix
-## 
+
 ## i stores the value of inverse of matrix
 makeCacheMatrix <- function(x = matrix()) {
     i <- NULL
